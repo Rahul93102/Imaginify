@@ -1,4 +1,41 @@
+<h1> Images platform </h1>
+<p> Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. 
+</p>
 
+## <a name="features">🔋 Features</a>
+
+👉 **Authentication and Authorization**: Secure user access with registration, login, and route protection.
+
+👉 **Community Image Showcase**: Explore user transformations with easy navigation using pagination
+
+👉 **Advanced Image Search**: Find images by content or objects present inside the image quickly and accurately
+
+👉 **Image Restoration**: Revive old or damaged images effortlessly
+
+👉 **Image Recoloring**: Customize images by replacing objects with desired colors easily
+
+👉 **Image Generative Fill**: Fill in missing areas of images seamlessly
+
+👉 **Object Removal**: Clean up images by removing unwanted objects with precision
+
+👉 **Background Removal**: Extract objects from backgrounds with ease
+
+👉 **Download Transformed Images**: Save and share AI-transformed images conveniently
+
+👉 **Transformed Image Details**: View details of transformations for each image
+
+👉 **Transformation Management**: Control over deletion and updates of transformations
+
+👉 **Credits System**: Earn or purchase credits for image transformations
+
+👉 **Profile Page**: Access transformed images and credit information personally
+
+👉 **Credits Purchase**: Securely buy credits via Stripe for uninterrupted use
+
+👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
+
+
+and many more, including code architecture and reusability 
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -2448,3 +2485,16 @@ export default Profile;
 ```
 
 </details>
+<br> 
+<h2> Images </h2>
+<img width="1440" alt="Screenshot 2024-07-10 at 3 22 50 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/62708f5e-744a-4de8-a5c1-69a8e7ccee00">
+<img width="1439" alt="Screenshot 2024-07-10 at 3 22 59 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/0447d0d0-0b1d-4789-995a-7dabbf5a740d">
+<img width="1440" alt="Screenshot 2024-07-10 at 3 24 46 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/939a5d3a-c0dc-48ba-a1de-4dbb3bf7ae90">
+<img width="1112" alt="Screenshot 2024-07-10 at 3 29 03 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/2f92d083-1088-49fd-962e-6bb94adac59e">
+<img width="1121" alt="Screenshot 2024-07-10 at 3 29 26 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/c5c35220-823b-4d14-934<img width="1116" alt="Screenshot 2024-07-10 at 3 29 45 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/828afaff-1a5d-4783-b251-e293fc506147">
+2-dba8c20757b8">
+<br>
+
+
+
+
