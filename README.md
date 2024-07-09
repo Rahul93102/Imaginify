@@ -1,4 +1,4 @@
-<h1> Images platform </h1>
+<h1> Image Manipulation Platform </h1>
 <p> Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. 
 </p>
 
@@ -37,15 +37,6 @@
 
 and many more, including code architecture and reusability 
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -2491,8 +2482,9 @@ export default Profile;
 <img width="1439" alt="Screenshot 2024-07-10 at 3 22 59 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/0447d0d0-0b1d-4789-995a-7dabbf5a740d">
 <img width="1440" alt="Screenshot 2024-07-10 at 3 24 46 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/939a5d3a-c0dc-48ba-a1de-4dbb3bf7ae90">
 <img width="1112" alt="Screenshot 2024-07-10 at 3 29 03 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/2f92d083-1088-49fd-962e-6bb94adac59e">
-<img width="1121" alt="Screenshot 2024-07-10 at 3 29 26 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/c5c35220-823b-4d14-934<img width="1116" alt="Screenshot 2024-07-10 at 3 29 45 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/828afaff-1a5d-4783-b251-e293fc506147">
-2-dba8c20757b8">
+<img width="1121" alt="Screenshot 2024-07-10 at 3 29 26 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/cb97ae78-848a-4cf9-9cec-9d2fa23bf0bf">
+<img width="1116" alt="Screenshot 2024-07-10 at 3 29 45 AM" src="https://github.com/Rahul93102/Imaginify/assets/132360698/c2023887-5a87-4123-aa8d-ffe4037b17f9">
+
 <br>
 
 
